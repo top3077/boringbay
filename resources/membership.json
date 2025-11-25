@@ -669,5 +669,12 @@
 		"name": "guangzhou_even's blog",
 		"description": "一个平凡的人",
 		"github_username": "guangzhoueven"
+	},
+	"107": {
+		"domain": "blog.fohok.xin",
+		"icon": "https://blog.fohok.xin/wp-content/uploads/2025/08/a91fabf8a49526b0ab7941fb2659297e1755339178171.jpg",
+		"name": "谶の博客",
+		"description": "生活会越来越好的!",
+		"github_username": "top3077"
 	}
 }
